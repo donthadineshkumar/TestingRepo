@@ -13,7 +13,7 @@ public class TestUsingJenkins {
 	
 	@BeforeTest
 	public void setUp(){
-		expectedRes = "Iam";
+		expectedRes = "Ian";
 	}
 	
 	@Test
